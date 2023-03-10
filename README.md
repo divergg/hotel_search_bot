@@ -19,11 +19,11 @@ Currently the bot understands the following commands:
 
 Examples<br/>
 
-![/help](pics/1.PNG)
+![/help](project/pics/1.PNG)
 
-![/highprice](pics/2.PNG)
+![/highprice](project/pics/2.PNG)
 
-![(pics/3.PNG)
+![(project/pics/3.PNG)
 
-![(pics/4.PNG)
+![(project/pics/4.PNG)
 
