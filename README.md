@@ -23,7 +23,7 @@ Examples<br/>
 
 ![/highprice](project/pics/2.PNG)
 
-![(project/pics/3.PNG)
+![](project/pics/3.PNG)
 
-![(project/pics/4.PNG)
+![](project/pics/4.PNG)
 
